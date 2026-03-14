@@ -46,13 +46,13 @@ Principais conceitos aplicados:
 # 📂 Estrutura do Projeto
 
 ```
-projeto-animes/
+Anime_site/
 │
 ├── index.html
-├── fotos/
-│   ├── BeyRensissancecapa.jpg
-│   ├── beyonceCapaCC.avif
-│   └── rockyoce.jpg
+├── fotos2/
+│   ├── Onepiece.jpeg
+│   ├── Jojo.avif
+│   └── frieren.png
 │
 └── README.md
 ```
